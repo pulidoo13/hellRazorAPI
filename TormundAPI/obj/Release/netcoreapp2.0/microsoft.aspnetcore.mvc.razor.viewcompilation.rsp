@@ -1,0 +1,5 @@
+C:\TormundProject\TormundAPI\TormundAPI
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=TormundAPI
+--content-root=C:\TormundProject\TormundAPI\TormundAPI
+--file=

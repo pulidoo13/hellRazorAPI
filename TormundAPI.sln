@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TormundAPI", "TormundAPI\TormundAPI.csproj", "{F75A148F-28FE-4891-9016-6A7403910584}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{94543796-A282-4605-9A3A-1DF480F75398}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataContractTormund", "DataContractTormund\DataContractTormund.csproj", "{119BC7BE-C0B9-457D-B4E9-97D67D6668C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BussinessLogic", "BussinessLogic\BussinessLogic.csproj", "{8AE9E32A-8388-41AA-98AB-FD96EF22E5D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F75A148F-28FE-4891-9016-6A7403910584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75A148F-28FE-4891-9016-6A7403910584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75A148F-28FE-4891-9016-6A7403910584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75A148F-28FE-4891-9016-6A7403910584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94543796-A282-4605-9A3A-1DF480F75398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94543796-A282-4605-9A3A-1DF480F75398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94543796-A282-4605-9A3A-1DF480F75398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94543796-A282-4605-9A3A-1DF480F75398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{119BC7BE-C0B9-457D-B4E9-97D67D6668C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119BC7BE-C0B9-457D-B4E9-97D67D6668C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119BC7BE-C0B9-457D-B4E9-97D67D6668C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119BC7BE-C0B9-457D-B4E9-97D67D6668C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE9E32A-8388-41AA-98AB-FD96EF22E5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE9E32A-8388-41AA-98AB-FD96EF22E5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE9E32A-8388-41AA-98AB-FD96EF22E5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE9E32A-8388-41AA-98AB-FD96EF22E5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D9C0114-75BB-4D2A-BD1A-A82FF50F070C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://macguffinco.visualstudio.com/
+		SccProjectUniqueName0 = DataContractTormund\\DataContractTormund.csproj
+		SccProjectName0 = DataContractTormund
+		SccLocalPath0 = DataContractTormund
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = BussinessLogic\\BussinessLogic.csproj
+		SccProjectName2 = BussinessLogic
+		SccLocalPath2 = BussinessLogic
+		SccProjectUniqueName3 = Model\\Model.csproj
+		SccProjectName3 = Model
+		SccLocalPath3 = Model
+		SccProjectUniqueName4 = TormundAPI\\TormundAPI.csproj
+		SccProjectName4 = TormundAPI
+		SccLocalPath4 = TormundAPI
+	EndGlobalSection
+EndGlobal

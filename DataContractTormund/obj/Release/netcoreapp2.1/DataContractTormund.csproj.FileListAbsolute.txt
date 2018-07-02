@@ -1,0 +1,11 @@
+C:\TormundProject\TormundAPI\DataContractTormund\bin\Release\netcoreapp2.1\DataContractTormund.deps.json
+C:\TormundProject\TormundAPI\DataContractTormund\bin\Release\netcoreapp2.1\DataContractTormund.runtimeconfig.json
+C:\TormundProject\TormundAPI\DataContractTormund\bin\Release\netcoreapp2.1\DataContractTormund.runtimeconfig.dev.json
+C:\TormundProject\TormundAPI\DataContractTormund\bin\Release\netcoreapp2.1\DataContractTormund.dll
+C:\TormundProject\TormundAPI\DataContractTormund\bin\Release\netcoreapp2.1\DataContractTormund.pdb
+C:\TormundProject\TormundAPI\DataContractTormund\obj\Release\netcoreapp2.1\DataContractTormund.csprojAssemblyReference.cache
+C:\TormundProject\TormundAPI\DataContractTormund\obj\Release\netcoreapp2.1\DataContractTormund.csproj.CoreCompileInputs.cache
+C:\TormundProject\TormundAPI\DataContractTormund\obj\Release\netcoreapp2.1\DataContractTormund.AssemblyInfoInputs.cache
+C:\TormundProject\TormundAPI\DataContractTormund\obj\Release\netcoreapp2.1\DataContractTormund.AssemblyInfo.cs
+C:\TormundProject\TormundAPI\DataContractTormund\obj\Release\netcoreapp2.1\DataContractTormund.dll
+C:\TormundProject\TormundAPI\DataContractTormund\obj\Release\netcoreapp2.1\DataContractTormund.pdb

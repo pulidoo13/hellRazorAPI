@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20180415001124_InitialCreate.cs" />
+    <Compile Remove="Migrations\20180415001124_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20180415001451_InitialCreate.cs" />
+    <Compile Remove="Migrations\20180415001451_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20180415003133_InitialCreate.cs" />
+    <Compile Remove="Migrations\20180415003133_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20180509063151_initialCreate.cs" />
+    <Compile Remove="Migrations\20180509063151_initialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20180509063343_initialCreate.cs" />
+    <Compile Remove="Migrations\20180509063343_initialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20180626044224_DatesTableInit2.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Utilerias\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BussinessLogic\BussinessLogic.csproj">
+      <Private>true</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\DataContractTormund\DataContractTormund.csproj">
+      <Private>true</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Private>true</Private>
+    </ProjectReference>
+  </ItemGroup>
+
+</Project>

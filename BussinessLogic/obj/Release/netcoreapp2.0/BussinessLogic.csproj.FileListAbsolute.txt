@@ -1,0 +1,14 @@
+C:\TormundProject\TormundAPI\BussinessLogic\bin\Release\netcoreapp2.0\BussinessLogic.deps.json
+C:\TormundProject\TormundAPI\BussinessLogic\bin\Release\netcoreapp2.0\BussinessLogic.dll
+C:\TormundProject\TormundAPI\BussinessLogic\bin\Release\netcoreapp2.0\BussinessLogic.pdb
+C:\TormundProject\TormundAPI\BussinessLogic\bin\Release\netcoreapp2.0\DataContractTormund.dll
+C:\TormundProject\TormundAPI\BussinessLogic\bin\Release\netcoreapp2.0\Model.dll
+C:\TormundProject\TormundAPI\BussinessLogic\bin\Release\netcoreapp2.0\DataContractTormund.pdb
+C:\TormundProject\TormundAPI\BussinessLogic\bin\Release\netcoreapp2.0\Model.pdb
+C:\TormundProject\TormundAPI\BussinessLogic\obj\Release\netcoreapp2.0\BussinessLogic.csproj.CoreCompileInputs.cache
+C:\TormundProject\TormundAPI\BussinessLogic\obj\Release\netcoreapp2.0\BussinessLogic.AssemblyInfoInputs.cache
+C:\TormundProject\TormundAPI\BussinessLogic\obj\Release\netcoreapp2.0\BussinessLogic.AssemblyInfo.cs
+C:\TormundProject\TormundAPI\BussinessLogic\obj\Release\netcoreapp2.0\BussinessLogic.csproj.CopyComplete
+C:\TormundProject\TormundAPI\BussinessLogic\obj\Release\netcoreapp2.0\BussinessLogic.dll
+C:\TormundProject\TormundAPI\BussinessLogic\obj\Release\netcoreapp2.0\BussinessLogic.pdb
+C:\TormundProject\TormundAPI\BussinessLogic\obj\Release\netcoreapp2.0\BussinessLogic.csprojAssemblyReference.cache
